@@ -1,3 +1,3 @@
 # Api
 
-Api desenvolvida com NodeJs e Express, integrada com banco de dados SQLite, para uma aplicação de Notas
+Uma Api desenvolvida para aprender sobre o NodeJs utilizando a biblioteca Express, a Api permite criar, deletar, atualizar, e deletar usuários em tabelas no banco de dados utilizando o insomnia para testes. 
